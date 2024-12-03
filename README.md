@@ -2,7 +2,7 @@
 
 An interactive visualization of research papers accepted at NeurIPS 2024, showing the relationships and clusters of different research areas.
 
-## 🔗 [Explore the Visualization](https://[your-username].github.io/nips2024-landscape)
+## 🔗 [Explore the Visualization](https://joanvelja.github.io/nips2024-landscape)
 
 ## Features
 
