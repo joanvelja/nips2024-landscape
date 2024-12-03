@@ -32,4 +32,4 @@ This visualization was created using [Toponymy](https://github.com/TutteInstitut
 
 ## Share
 
-Tweet about this visualization: [Click to Tweet](https://twitter.com/intent/tweet?text=Explore%20the%20NeurIPS%202024%20Research%20Landscape%20-%20an%20interactive%20visualization%20of%20machine%20learning%20research%20papers%20https%3A%2F%2F[your-username].github.io%2Fnips2024-landscape)
+Tweet about this visualization: [Click to Tweet](https://twitter.com/intent/tweet?text=Explore%20the%20NeurIPS%202024%20Research%20Landscape%20-%20an%20interactive%20visualization%20of%20machine%20learning%20research%20papers%20https%3A%2F%2Fjoanvelja.github.io%2Fnips2024-landscape)
